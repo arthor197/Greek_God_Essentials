@@ -1,0 +1,25 @@
+name: Greek God Essentials
+main: me.ksmit799197.greekgodessentials.Main
+version: 1.0(Beta 2)
+description: >
+             A fun plugin for a Greek themed/God related server.
+commands:
+  kill:
+    description: Kill's you or the targeted player
+  setwp:
+    description: Set's a personal warp
+  tpwp:
+    description: Teleport's you to your personal warp
+  heal:
+    description: Heals you or the targeted player
+  feed:
+    description: Set's your hunger or targeted players hunger to full
+  starve:
+    description: Starves you or the targeted player
+  info:
+    description: Tells you the ID of the block your looking at
+  ignite:
+    description: Sets you or the targeted player on fire
+  slap:
+    description: Slap's you or the targeted player for one heart
+  
